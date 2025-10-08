@@ -1,0 +1,122 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "She sings ______ in the choir. (Adverb of manner)",
+    "options": ["beautifully", "tomorrow", "outside"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "We will go to the park ______. (Adverb of time)",
+    "options": ["tomorrow", "slowly", "outside"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "She looked for her book ______. (Adverb of place)",
+    "options": ["yesterday", "quickly", "everywhere"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "He solved the puzzle ______. (Adverb of manner)",
+    "options": ["yesterday", "quickly", "upstairs"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "They are playing a game ______. (Adverb of time)",
+    "options": ["now", "carefully", "here"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Adverbs of place can be used to describe movement or direction.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Adverbs of manner usually end in -ly.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Adverbs of place describe how an action is done.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Adverbs of manner describe how an action is done.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Adverbs of time describe where an action is done.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which of the following is an adverb of manner?",
+    "options": ["loudly", "yesterday", "here"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which of the following is an adverb of time?",
+    "options": ["quickly", "always", "outside"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which of the following is an adverb of place?",
+    "options": ["soon", "everywhere", "angrily"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which of the following is an adverb of time?",
+    "options": ["downstairs", "loudly", "recently"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which of the following is an adverb of place?",
+    "options": ["yesterday", "nearby", "quietly"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "The dog ran ______ in the yard.",
+    "options": ["tomorrow", "quickly", "upstairs"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "We will meet ______ for the party.",
+    "options": ["later", "beautifully", "everywhere"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "They played soccer ______ after school.",
+    "options": ["now", "correctly", "outside"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "She ate her breakfast ______.",
+    "options": ["quietly", "tomorrow", "inside"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "We will see the movie ______.",
+    "options": ["tomorrow", "loudly", "everywhere"],
+    "correct": 0
+  }
+]
